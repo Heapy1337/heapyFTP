@@ -1,2 +1,2 @@
 # heapyFTP
-Basic FTP Client
+Basic Closed Source FTP Client
